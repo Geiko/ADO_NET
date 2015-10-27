@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Gems>
+  <Gem>
+    <Id>1</Id>
+    <ColorId>1</ColorId>
+    <Name>Diamond</Name>
+    <Transparency>true</Transparency>
+    <Type>PRECIOUS</Type>
+    <Description>A diamond (from the ancient Greek ἀδάμας – adámas, meaning "unbreakable", "proper", or "unalterable") is one of the best-known and most sought-after gemstones</Description>
+  </Gem>
+  <Gem>
+    <Id>2</Id>
+    <ColorId>2</ColorId>
+    <Name>Amber </Name>
+    <Transparency>false</Transparency>
+    <Type>ORNAMENTAL</Type>
+    <Description>Amber is fossilized tree resin (not sap), which has been appreciated for its color and natural beauty since Neolithic times</Description>
+  </Gem>
+  <Gem>
+    <Id>3</Id>
+    <ColorId>2</ColorId>
+    <Name>Topaz </Name>
+    <Transparency>false</Transparency>
+    <Type>SEMIPRECIOUS</Type>
+    <Description>Topaz is a silicate mineral of aluminium and fluorine with the chemical formula Al2SiO4(F,OH)2.</Description>
+  </Gem>
+</Gems>

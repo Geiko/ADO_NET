@@ -1,0 +1,10 @@
+D:\My\IT\ШАГ\11 ADO.NET\HomeWork\3\ADO_NET_3\ADO_NET_3\bin\Debug\ADO_NET_3.exe.config
+D:\My\IT\ШАГ\11 ADO.NET\HomeWork\3\ADO_NET_3\ADO_NET_3\bin\Debug\ADO_NET_3.exe
+D:\My\IT\ШАГ\11 ADO.NET\HomeWork\3\ADO_NET_3\ADO_NET_3\bin\Debug\ADO_NET_3.pdb
+D:\My\IT\ШАГ\11 ADO.NET\HomeWork\3\ADO_NET_3\ADO_NET_3\obj\Debug\ADO_NET_3.csprojResolveAssemblyReference.cache
+D:\My\IT\ШАГ\11 ADO.NET\HomeWork\3\ADO_NET_3\ADO_NET_3\obj\Debug\geiko.ADO_NET_3.FormMain.resources
+D:\My\IT\ШАГ\11 ADO.NET\HomeWork\3\ADO_NET_3\ADO_NET_3\obj\Debug\geiko.ADO_NET_3.FormNewUser.resources
+D:\My\IT\ШАГ\11 ADO.NET\HomeWork\3\ADO_NET_3\ADO_NET_3\obj\Debug\geiko.ADO_NET_3.Properties.Resources.resources
+D:\My\IT\ШАГ\11 ADO.NET\HomeWork\3\ADO_NET_3\ADO_NET_3\obj\Debug\ADO_NET_3.csproj.GenerateResource.Cache
+D:\My\IT\ШАГ\11 ADO.NET\HomeWork\3\ADO_NET_3\ADO_NET_3\obj\Debug\ADO_NET_3.exe
+D:\My\IT\ШАГ\11 ADO.NET\HomeWork\3\ADO_NET_3\ADO_NET_3\obj\Debug\ADO_NET_3.pdb

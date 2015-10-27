@@ -1,0 +1,10 @@
+D:\My\IT\ШАГ\11 ADO.NET\HomeWork\4\GemDb\GemDb\bin\Debug\GemDb.exe.config
+D:\My\IT\ШАГ\11 ADO.NET\HomeWork\4\GemDb\GemDb\bin\Debug\GemDb.exe
+D:\My\IT\ШАГ\11 ADO.NET\HomeWork\4\GemDb\GemDb\bin\Debug\GemDb.pdb
+D:\My\IT\ШАГ\11 ADO.NET\HomeWork\4\GemDb\GemDb\obj\Debug\GemDb.csprojResolveAssemblyReference.cache
+D:\My\IT\ШАГ\11 ADO.NET\HomeWork\4\GemDb\GemDb\obj\Debug\GemDb.MainForm.resources
+D:\My\IT\ШАГ\11 ADO.NET\HomeWork\4\GemDb\GemDb\obj\Debug\GemDb.Properties.Resources.resources
+D:\My\IT\ШАГ\11 ADO.NET\HomeWork\4\GemDb\GemDb\obj\Debug\GemDb.csproj.GenerateResource.Cache
+D:\My\IT\ШАГ\11 ADO.NET\HomeWork\4\GemDb\GemDb\obj\Debug\GemDb.exe
+D:\My\IT\ШАГ\11 ADO.NET\HomeWork\4\GemDb\GemDb\obj\Debug\GemDb.pdb
+D:\My\IT\ШАГ\11 ADO.NET\HomeWork\4\GemDb\GemDb\obj\Debug\GemDb.GemFeatureForm.resources
